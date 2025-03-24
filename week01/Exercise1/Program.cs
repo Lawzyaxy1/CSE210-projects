@@ -12,6 +12,6 @@ class Program
         string last = Console.ReadLine();
 
         Console.WriteLine($"Your name is {last},{first} {last}.");
-        console.WriteLine("this c sharp assignment");   
+        console.WriteLine("this is c sharp assignment");   
     }
 }   
