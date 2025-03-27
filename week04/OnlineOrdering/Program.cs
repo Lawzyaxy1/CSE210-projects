@@ -144,8 +144,8 @@ namespace OrderProcessing
             Address address2 = new Address("456 Maple Ave", "Vancouver", "BC", "Canada");
 
             // Create customers
-            Customer customer1 = new Customer("John Doe", address1);
-            Customer customer2 = new Customer("Jane Smith", address2);
+            Customer customer1 = new Customer("Lawrence Manu", address1);
+            Customer customer2 = new Customer("Joseph Smith", address2);
 
             // Create products
             Product product1 = new Product("Laptop", 101, 999.99m, 1);
