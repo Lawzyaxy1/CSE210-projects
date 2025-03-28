@@ -1,7 +1,0 @@
-nstall[D[D[D[D[D[D[D[Cinstall c sharp terminal
-c sharp week1.cs
-save
-week1.cs
-wget https://dist.nuget.org/win-x86-commandline/latest/nuget.exe -OutFile nuget.exe[D[Cwget https://dist.nuget.org/win-x86-commandline/latest/nuget.exe -OutFile nuget.exe
-[C[C[C
-wget https://dist.nuget.org/win-x86-commandline/latest/nuget.exe -OutFile nuget.exe
